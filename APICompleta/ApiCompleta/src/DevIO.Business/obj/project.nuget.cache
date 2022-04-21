@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3p7axdP48vmjuZxqMbY2Ch5YIwg8PqSUv3t6hAF/dShcfC8Eusr+U+4wezaasGnrnfppPHHCP+QPbqIVdoDVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mecanicanet\\Desktop\\Curso WebAPI Core\\VS\\APICompleta\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mecanicanet\\.nuget\\packages\\fluentvalidation\\8.3.0\\fluentvalidation.8.3.0.nupkg.sha512",
+    "C:\\Users\\Mecanicanet\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
