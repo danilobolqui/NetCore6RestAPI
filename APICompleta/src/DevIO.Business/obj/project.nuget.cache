@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aw7aaULEJoq4BFoiwme9kRIAlNncTTcqfizuM79L18cjN67geZcPHmyH//A3qOS+ArDxljOLBkaPlZup76icCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mecanicanet\\Desktop\\Nova pasta\\NetCore6RestAPI\\APICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mecanicanet\\.nuget\\packages\\fluentvalidation\\8.3.0\\fluentvalidation.8.3.0.nupkg.sha512",
+    "C:\\Users\\Mecanicanet\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
